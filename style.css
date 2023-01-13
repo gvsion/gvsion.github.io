@@ -11,7 +11,8 @@
     text-decoration: none;
     text-align: center;
     text-shadow: white 1px 0px 2px;
-}
+    font-size: 30px;
+}   
 
 .link-instagram{
     color: purple;
@@ -21,4 +22,8 @@
 .link-github{
     color: purple;
     text-decoration: none;
+}
+
+.background{
+    
 }
