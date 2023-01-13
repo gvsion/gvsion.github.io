@@ -25,5 +25,18 @@
 }
 
 .background{
-    
+    background: "";
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1; 
+    display: block;
+    background-image: url('https://wallpapercave.com/wp/wp1950984.jpg');
+    width: 100%px;
+    height: 100%px;
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
 }
