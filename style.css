@@ -13,26 +13,6 @@ body{
     position: relative;
 
 }
-.container{
-    width: 100%;
-    color: var(--text-color-primary);
-    text-decoration: none;
-    text-align: center;
-    text-shadow: white 1px 0px 2px;
-    font-size: 30px;
-    position: absolute;
-    z-index: 1;
-}   
-
-.link-instagram{
-    color: var(--text-color-primary);
-    text-decoration: none;
-}
-
-.link-github{
-    color: var(--text-color-primary);
-    text-decoration: none;
-}
 
 .background img {
     width: 100%;
@@ -44,3 +24,4 @@ body{
     position: absolute;
     
 }
+
