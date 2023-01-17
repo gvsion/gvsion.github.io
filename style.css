@@ -36,6 +36,7 @@ body{
 .box{
     width: 320px;
     height: 280px;
+    text-align: center;
 }
 
 .profile{
@@ -75,4 +76,7 @@ body{
     border: 2px solid #000;
 }
 
-
+.link-title{
+    text-decoration: none;
+    font-style: italic;
+}
